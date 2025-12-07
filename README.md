@@ -37,4 +37,4 @@ script.js
 
 ##  **Author**
 **Jahnavi Priya**
-Frontend Developer | Passionate about UI/UX & Responsive Web Design
+FullStack Developer | Passionate about creating Responsive Web Design
