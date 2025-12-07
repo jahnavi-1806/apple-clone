@@ -1,4 +1,4 @@
-# 🍎 **Apple Clone Website**
+# **Apple Clone Website**
 
 A sleek and modern clone of the Apple website built using **HTML, CSS, and JavaScript**.
 This project recreates the minimalist Apple UI with smooth layouts, responsive sections, and clean design.
